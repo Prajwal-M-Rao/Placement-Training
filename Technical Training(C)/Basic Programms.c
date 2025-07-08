@@ -23,7 +23,7 @@ int main()
     else{printf("%d",d);}
 
 }
-/*{
+
     // BloodGroups
     char bg;
     printf("Enter the blood group : ");
@@ -39,4 +39,3 @@ int main()
     default: printf("Can donate to ab and o");
         break;
     }
-}*/
