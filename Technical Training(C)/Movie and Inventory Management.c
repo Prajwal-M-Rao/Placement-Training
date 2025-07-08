@@ -1,7 +1,7 @@
 #include<stdio.h>
 int n;
-//int MAX=50;
-/*int main()
+int MAX=50;
+int main()
 {
  int select,n;
  char s;
@@ -49,10 +49,10 @@ void movie_confirm()
         printf("Ticket Confirmed!!");
     else
         printf("Cancelled");
-}*/
+}
 
 // Online shopping : products,price,add to cart,buy
-int main()
+/*int main()
 {
  int select;
  char s[10];
@@ -125,4 +125,4 @@ int movie_selection(int select)
  default:
     break;
  }
-}
+}*/
